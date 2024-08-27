@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "jerryPlug"
+		},
+		{
+			"path": "../Downloads/imagens-icones"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "imagens-icones"
+	}
+}
